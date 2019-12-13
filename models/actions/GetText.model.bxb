@@ -1,0 +1,8 @@
+action (GetText) {
+  description (__DESCRIPTION__)
+  type (Search)
+  collect {
+
+  }
+  output (TextResult)
+}

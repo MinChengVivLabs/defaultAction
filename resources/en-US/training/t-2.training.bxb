@@ -1,0 +1,5 @@
+train (t-2qvofxc7qu7h06ic767jrrlke) {
+  utterance ([g:GetText] show me something)
+  plan (Y2BikM1NLivWS0lNSyzNKXFMLsnMz9MLSa0oCUotBgowSGGRdk8tAalgYARCBigGkgA=)
+  last-modified (1576198486005)
+}

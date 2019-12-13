@@ -1,0 +1,7 @@
+capsule-info {
+  display-name (Test A)
+  dispatch-name (Test A)
+  developer-name (__COMPANY_NAME__)
+  icon-asset (icon.png)
+  description ("__DESCRIPTION__")
+}

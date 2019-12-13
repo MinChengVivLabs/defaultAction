@@ -1,0 +1,27 @@
+capsule {
+  id (mcvs.defaultAction)
+  version (0.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+    target (bixby-mobile-en-GB)
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+    no-filtering-with-validation
+    modern-default-view-behavior
+    use-input-views-for-selection-list-detail
+  }
+  // store-sections {
+  //   section (Utilities)
+  // }
+  store-countries {
+    // only {
+    //   allow (US)
+    // }
+    all
+  }
+  default-action (GetInt)
+}

@@ -1,0 +1,3 @@
+integer (IntResult) {
+  description (__DESCRIPTION__)
+}

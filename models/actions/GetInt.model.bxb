@@ -1,0 +1,7 @@
+action (GetInt) {
+  description (__DESCRIPTION__)
+  type (Search)
+  collect {
+  }
+  output (IntResult)
+}
